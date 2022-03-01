@@ -1,4 +1,4 @@
-This is a command recognition in Persion <br />
+This is a command recognition in Persian <br />
 Commands: On/Off <br />
 <br />
 Libraries: <br />
