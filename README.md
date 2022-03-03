@@ -12,7 +12,7 @@ Libraries: <br />
 8- matplotib <br />
  <br />
 Dataset:  <br />
-30 command for ON (on1.wav, on2.wav, ..., on30.wav) <br />
-30 command for OFF (off1.wav, off2.wav, ..., off30.wav) <br />
+30 commands for ON (on1.wav, on2.wav, ..., on30.wav) <br />
+30 commands for OFF (off1.wav, off2.wav, ..., off30.wav) <br />
 sample rate: 16KHz <br />
 
